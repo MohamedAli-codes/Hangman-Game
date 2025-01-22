@@ -1,0 +1,11 @@
+blue
+white
+black
+red
+yellow
+orange
+purple
+cyan
+vivet
+mocha
+
